@@ -4,7 +4,7 @@
 
 ### Coded by Autumn Demonet
 
-To view the code used to analyze the impact of home type and home age on the value of a property, look at: house_attributes.ipynb
+house_attributes.ipynb is the code used to analyze the impact of home type and home age on the value of a property 
 
 PNG Files:
 
