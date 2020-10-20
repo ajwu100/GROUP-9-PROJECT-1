@@ -82,3 +82,16 @@ Bar Chart Visual: The count of Location Windspeed based on state (NC, SC, VA)
 Pie Chart Visual: Terrain Comparison by State (NC, SC, VA)
 Pie Chart Visual: Windborne Debris Comparison by State(NC, SC, VA)
 Box Plot Visual: Value of Home based on the Terrain
+
+**Mikael Hall**
+
+Jupyter Notebook: 
+- Home_Amenities.ipynb
+- House_Att.ipynb
+
+Source Data:
+
+clean4.csv
+PNG images: 
+- NumberofStories boxplot
+- NumberofStories2 boxplot
