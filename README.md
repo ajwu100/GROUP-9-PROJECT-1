@@ -1,6 +1,7 @@
 # GROUP-9-PROJECT-1
 
-**David Marobella**
+## Location Analysis - saved as folder
+### Coded by David Marobella
 Jupyter Notebook:
 - Location_Analysis is my Jupyter Notebook code.
 
@@ -20,7 +21,9 @@ PNG figs: Created by Location_Analysis.ipynb
 - Average Age vs Value of Home Scatter is the scatter plot for Average Age of County vs Value of Home.
 - Distance to Coast Scatter is the scatter plot for the Value of Home vs the Distance to the Coast.
 
-**Tyler Hunt**
+## House Attributes & County Heat Map
+### Coded by Tyler Hunt
+
 Jupyter Notebook:
 - Parcel_bc.ipynb summary - This file imports data from ‘clean.csv’ for those that have FL vacation homes but whose primary residence is in NC, SC or VA. This Jupiter notebook dives into how the square footage of a home is related to the value of the home as well as how square footage is distributed amongst the owners in the dataset. Furthermore, this notebook was used to identify and visualize where such owners tended to live and FL and where the most expensive homes could be found.
 
@@ -30,7 +33,8 @@ PNG figs: Created by parcel_bc.ipynb
 - ‘Heatmap_hv.png’ - Shows a heat map of where vacation homes are located. Weights are based on value of home. Example: A 6 million dollar home would have a larger point radius and intensity than a 30k dollar home.
 
 
-**Ai-Jiuan Wu**
+## Public Community - saved as folder
+### Coded by Ai-Jiuan Wu
 Jupyter Notebooks:
 - house_data_raw2.ipynb - generate the clean2.csv file by adding Distance to Hydrant and CountyName data from House_price_multifeatures.csv  to clean.csv file.
 -public_community.ipynb - performed the data analyses looking at the impacts of fire protection, property crime and education on home prices.  Prices for vacation and county-wide homes.
@@ -50,7 +54,7 @@ PNG figs: Created by public_community.ipynb.  Scatter plots and correlation plot
 - 'ed.png': % Total Ed points for each county in FL.
 - 'value.png': Home Values for each county in FL.
 
-## Analysis of Home Type and Age of Home
+## House Attributes: Analysis of Home Type and Age of Home - saved as folder
 ### Coded by Autumn Demonet
 Jupyter Notebook:
 - house_attributes.ipynb is the code used to analyze the impact of home type and home age on the value of a property
@@ -70,28 +74,30 @@ PNG Files:
 - value second home by age.png is a scatter plot of second homes that compares Age of Home to its Value with the linear regression annotated
 - value sf second home by age.png is a scatter plot of Single Family second homes that compares Age of Home to its Value with the linear regression annotated
 
-**Joseph Pegram**
+## Natural Disasters - saved as folder
+### Coded by Joseph Pegram
 
 Jupyter Notebook:
-nat_disasters.iipynb
+- nat_disasters.iipynb
 
 Images:
-Scatter Plot Visual: Value of Home based on the Distance to Sinkhole
-Box plot Visual: Sinkhole Comparison based on State (NC, SC, VA)
-Bar Chart Visual: The count of Location Windspeed based on state (NC, SC, VA)
-Pie Chart Visual: Terrain Comparison by State (NC, SC, VA)
-Pie Chart Visual: Windborne Debris Comparison by State(NC, SC, VA)
-Box Plot Visual: Value of Home based on the Terrain
+- Scatter Plot Visual: Value of Home based on the Distance to Sinkhole
+- Box plot Visual: Sinkhole Comparison based on State (NC, SC, VA)
+- Bar Chart Visual: The count of Location Windspeed based on state (NC, SC, VA)
+- Pie Chart Visual: Terrain Comparison by State (NC, SC, VA)
+- Pie Chart Visual: Windborne Debris Comparison by State(NC, SC, VA)
+- Box Plot Visual: Value of Home based on the Terrain
 
-**Mikael Hall**
+## Home Amenities - saved as folder
+### Coded by Mikael Hall
 
 Jupyter Notebook: 
 - Home_Amenities.ipynb
 - House_Att.ipynb
 
 Source Data:
+- clean4.csv
 
-clean4.csv
 PNG images: 
 - NumberofStories boxplot
 - NumberofStories2 boxplot
